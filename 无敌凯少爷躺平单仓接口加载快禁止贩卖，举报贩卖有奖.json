@@ -28,7 +28,7 @@
       "name": "禁止偷拿去直播无敌凯少爷豆瓣2",
       "type": 3,
       "api": "csp_DouDouGuard",
-      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1741066475265/f0304.txt;md5;d7422c79ea5b4479c056b168cdaf95b0",
+      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1751359904682/f0701.jpg;md5;8432d174d72d5b608ae1bcd16d966847",
       "indexs": 1,
       "searchable": 0,
       "quickSearch": 0,
@@ -83,26 +83,21 @@
       }
     },
     {
-      "key": "木偶",
-      "name": "木偶┃4K",
-      "type": 3,
-      "api": "csp_MuouGuard",
-  "jar": "https://fs-im-kefu.7moor-fs2.com/im/2768a390-5474-11ea-afc9-7b323e3e16c0/NMVNUpzf.png;md5;THISISMD5",
-      "quickSearch": 1,
-      "changeable": 1,
-      "filterable": 1,
-      "timeout": 25
-    },
-    {
       "key": "玩偶",
       "name": "👽玩偶哥哥┃4K弹幕",
       "type": 3,
-      "api": "csp_WoggGuard",
-  "jar": "https://fs-im-kefu.7moor-fs2.com/im/2768a390-5474-11ea-afc9-7b323e3e16c0/UApSCWaj.png;md5;46664fd81fdd430b516138e69613fbc9",
+      "api": "csp_WoGGGuard",
+      "jar"："https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1751359904682/f0701.jpg;md5;8432d174d72d5b608ae1bcd16d966847",
+      "timeout": 30,
       "searchable": 1,
-      "filterable": 1,
-      "changeable": 1,
-      "timeout": 30
+      "quickSearch": 1,
+      "changeable": 0,
+      "ext": {
+        "Cloud-drive": "tvfan/Cloud-drive.txt",
+        "from": "4k|auto",
+        "siteUrl": "https://www.wogg.com/",
+        "danMu": "弹"
+      }
     },
     {
       "key": "玩偶资源",
