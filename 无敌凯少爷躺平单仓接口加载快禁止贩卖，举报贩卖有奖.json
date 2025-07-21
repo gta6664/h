@@ -3292,7 +3292,7 @@
       "name": "🧨🧧ZB🧨🧧",
       "type": 0,
       "url": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/gta6664/h/refs/heads/main/v8.txt",
-      "playerType": 1,
+      "playerType": 2,
       "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
       "logo": "https://live.fanmingming.com/tv/{name}.png"
     }
