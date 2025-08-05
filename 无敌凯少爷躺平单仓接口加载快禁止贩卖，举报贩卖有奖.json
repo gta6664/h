@@ -83,6 +83,14 @@
       }
     },
 {
+            "key": "huban",
+            "name": "虎斑弹幕|小窗",
+            "type": 3,
+            "jar": "./HubanTC.jar",
+             "api": "csp_Huban"
+        },
+
+{
             "key": "玩偶",
             "name": "👽玩偶哥哥┃4K弹幕",
             "type": 3,
@@ -213,7 +221,85 @@
       "searchable": 1,
       "quickSearch": 1
     },
-
+    {
+      "key": "Drama",
+      "name": "Drama｜APP",
+      "type": 3,
+      "api": "csp_Drama",
+      "jar": "https://ym.wya6.cn/tz/drama.php;md5;2d7ad9d4189fa795df247814f172dfb0",
+      "searchable": 1,
+      "changeable": 0,
+      "ext": "caHR0cDovLzE1NC44Ni4xOC4xMTo4MzAxfEQyS1JFV1JJQlZOQVVKSllUS0xZRFpCUUJHRTBQUT09fE9DMUEwNkUxOTdFRjEwQ0YzRjYwNThDQTdBODAzQjVFfDIxfGR5dHQ="
+    },
+    {
+      "key": "热播影视",
+      "name": "热播｜APP",
+      "type": 3,
+      "api": "csp_AppRJ",
+      "jar": "./凡人.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": {
+        "url": "http://v.rbotv.cn"
+      }
+    },
+    {
+      "key": "天天影视",
+      "name": "天天｜APP",
+      "type": 3,
+      "api": "csp_AppRJ",
+      "jar": "./凡人.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": {
+        "url": "http://tt.ysdqjs.cn"
+      }
+    },
+    {
+      "key": "浪酷影视",
+      "name": "浪酷｜APP",
+      "type": 3,
+      "api": "csp_AppRJ",
+      "jar": "./凡人.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": {
+        "url": "http://v.lkuys.cn"
+      }
+    },
+    {
+      "key": "星河",
+      "name": "星河｜APP",
+      "type": 3,
+      "quickSearch": 1,
+      "api": "csp_AppSy",
+      "jar": "./凡人.jar",
+      "ext": {
+        "url": "http://192.140.161.171:2563",
+        "key1": "aassddwwxxllsx1x",
+        "key2": "aassddwwxxllsx1x",
+        "key3": "aassddwwxxllsx1x"
+      }
+    },
+    {
+      "key": "云云",
+      "name": "云云｜APP",
+      "type": 3,
+      "quickSearch": 1,
+      "api": "csp_AppGet2",
+      "jar": "./凡人.jar",
+      "ext": {
+        "url": "",
+        "site": "https://staraugust123456.oss-cn-hangzhou.aliyuncs.com/1.txt",
+        "dataKey": "staraugust123456",
+        "dataIv": "staraugust123456",
+        "deviceId": "",
+        "version": "120"
+      }
+    },
 {
             "key": "狐狸君",
             "name": "狐狸君｜4K",
